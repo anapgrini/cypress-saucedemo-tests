@@ -1,0 +1,23 @@
+
+{
+  "name": "meu-primeiro-cypress",
+  "version": "1.0.0",
+  "description": "Automated end-to-end tests for SauceDemo using Cypress.",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "keywords": [
+    "qa",
+    "cypress",
+    "automation",
+    "e2e-testing",
+    "saucedemo"
+  ],
+  "author": "Ana Paula Pelegrini",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "cypress": "^15.19.0"
+  }
+}
