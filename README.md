@@ -1,6 +1,13 @@
 
 # 🧪 SauceDemo — Cypress E2E Automation
 
+### 🌐 Interactive QA Dashboard
+
+Explore the interactive dashboard featuring animated test results, execution previews, and automated test coverage.
+
+**[🚀 Explore Live Dashboard](https://anapgrini.github.io/cypress-saucedemo-tests/)**
+
+
 ![Cypress](https://img.shields.io/badge/Cypress-E2E_Testing-17202C?logo=cypress)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-Runtime-339933?logo=node.js&logoColor=white)
