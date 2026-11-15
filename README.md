@@ -7,6 +7,9 @@ Explore the interactive dashboard featuring animated test results, execution pre
 
 **[🚀 Explore Live Dashboard](https://anapgrini.github.io/cypress-saucedemo-tests/)**
 
+[![Cypress E2E Tests](https://github.com/anapgrini/cypress-saucedemo-tests/actions/workflows/cypress.yml/badge.svg)](https://github.com/anapgrini/cypress-saucedemo-tests/actions/workflows/cypress.yml)
+
+
 
 ![Cypress](https://img.shields.io/badge/Cypress-E2E_Testing-17202C?logo=cypress)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)
